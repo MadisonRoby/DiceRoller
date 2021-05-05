@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+body {
+  background: #002642;
+}
+
+#formBlock {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+width: 500px;
+padding: 30px;
+background-color: #E5DADA;
+}
+
+h1 {
+  color: #840032;
+  font-family: 'Staatliches', cursive;
+  font-size: 70px;
+  text-align: center;
+}
+
+h2 {
+  color: #840032;
+  font-family: 'Staatliches', cursive;
+  font-size: 40px;
+  text-align: center;
+  font-style: italic;
+  word-spacing: 10px;
+}
+
+#rollResults {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+width: 500px;
+padding: 30px;
+background-color: #E5DADA;
